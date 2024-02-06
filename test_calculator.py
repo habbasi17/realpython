@@ -1,5 +1,5 @@
 """
-Unit tests for the calculatro librarary
+Unit tests for the calculator library
 """
 
 import calculator
